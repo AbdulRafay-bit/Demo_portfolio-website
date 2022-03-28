@@ -622,6 +622,18 @@ footer span a:hover{
         margin-bottom: 35px;
     }
 }
+.teams .carousel .card img{
+    @media (max-width: 500px) {
+        height:120px;
+        width:120px;
+    }}
+    .teams .carousel .card img{
+    @media (max-width:820px) {
+        width:120px;
+        height:130px;
+    }}
+
+
 @media (max-width: 690px) {
     .max-width{
         padding: 0 23px;
