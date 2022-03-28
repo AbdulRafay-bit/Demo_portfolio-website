@@ -156,7 +156,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("image/4.jpg") no-repeat center;
+    background: url("image/profile.png") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -409,7 +409,7 @@ section .title::after{
     height: 250px;
     width: 380px;
     object-fit: cover;
-    border-radius: 21%;
+    border-radius: 10%;
     border: 5px solid rgb(202, 75, 100);
     transition: all 0.3s ease;
 }
